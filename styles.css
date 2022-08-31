@@ -138,3 +138,24 @@
     opacity: 60%;
     text-align: center;
 }
+
+/* quote section */
+
+.quote-container {
+    height: 300px;
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-content {
+    font-size: 26px;
+    font-style: italic;
+    margin-bottom: 12px;
+}
+
+.quote-credit {
+    text-align: right;
+    font-weight: 700;
+}
